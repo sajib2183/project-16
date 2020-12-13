@@ -1,0 +1,111 @@
+body{
+    background-color: #DC3545;
+    color:white;
+    
+}
+.navbar{
+    border-bottom:3px solid #DC3545;
+    background-color: #2d2e2f;
+    opacity: 0.7;
+}
+#journey{
+    background-image: url("../img/sleep1_0.jpg");
+    min-height: 650px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home .overlay{
+    background: rgba(0,0,0,0.7);
+    min-height: 650px;
+}
+#journey .inner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.card{
+    background-color: transparent;
+}
+.card .form-control{
+    background-color: transparent;
+    border:2px solid #DC3545;
+    transition: 0.2s ease-in-out;
+}
+.color{
+    background-image: url("../img/f3.jpg");
+    
+    background-position: center;
+    
+    
+}
+.flag{
+    background-image:linear-gradient(to right,#182D18,#2E7221,#8B9132,#A70511,#D92013,#DC2610,#182D18,#2E7221,#8B9132);
+}
+.nav-color{
+    background-color: #34495E;
+}
+.flag2{
+   
+    height:50px;
+    width:30px;
+}
+.friday{
+     position: relative;
+     top: 40px;
+    left:20px;
+}
+.background{
+    background-image: url("../img/capture2.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 650px;
+    background-attachment: fixed;
+}
+#footer{
+    background-image: url("../img/Capture2.JPG");
+    min-height: 650px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#footer .overlay{
+    background: rgba(0, 0, 0, 0.158);
+    min-height: 650px;
+}
+#footer .inner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.contact{
+        background: #2f4255b4;
+        padding: 20px;
+        margin: 15px 15px 0 10px;
+        height: 576px;
+        width:350px;
+        position: relative;
+        left:200px;
+      
+}
+.icon{
+    position: absolute;
+    bottom:10px;
+    left:70px;
+    
+    
+}
+.img-fluid{
+    min-width: 100%;
+}
+.fd{
+    min-width: 100%;
+}
+.footer{
+    background-color: #343A40;
+}
+.desh{
+    width: 400px;
+    margin: auto;
+    
+    font-size: 50px;
+}
+.desh:hover{
+    background-color: darkslategray;
+}
